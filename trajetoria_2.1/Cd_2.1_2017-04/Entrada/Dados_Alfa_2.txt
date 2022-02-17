@@ -1,0 +1,32 @@
+Alfa_2 ................ SAIDA             !Nome do arquivo de saída 
+1 ...................... U                !Unidade utilizada nas medidas do foguete (1=milímetros, 2=pés, 3=polegadas)
+27.60d0 ................ To1              !Temperatura atmosférica (°C)
+091.11d0 ............... Po1              !Pressão atmosférica (kPa)
+200000d0 ............... Retc             !Número de Reynolds de transição para corpos de revolução
+25000d0 ................ Rete	          !Número de Reynolds de transição para empenas
+0.07d0 .................. Mmax            !Número de mach máximo
+50 ..................... It               !Número de pontos do gráfico
+4 ...................... Na	          !Tipo de nariz (1=elpsoide, 2=ogiva, 3=cônico, 4=parabólico)
+59.00d0 ................ Lna              !Comprimento total do nariz (mm) 
+19.73d0 ................. Dna	          !Diâmetro do nariz (mm)
+200.0d0 ................. Lc              !Comprimento do tubo (mm) 
+20.32d0 ................. Dc 	          !Diâmetro do tubo (mm)
+3d0 .................... N	          !Número de empenas
+0 ...................... Ac	          !Tipo de seção transversal(0=quadrada, 1=arredondada)
+2.450d0 ................ e                !Espessura (mm)
+25.000d0 ............... Rc               !Comprimento da base (mm)
+10.000d0 ............... Tc               !Comprimento do topo (mm)
+30.000d0 ............... S                !Altura (mm)
+15.000d0 ............... Sc               !Comprimento do contorno (mm)
+0 ...................... motorexterno	  !Posição do motor (0=interno, 1=externo)
+60.000d0 ............... Lm	          !Comprimento do motor (mm)
+50.000d0 ............... Dm	          !Diâmetro do motor (mm)
+0 ...................... motorligado      !Condição do motor (1=sim, 0=não)
+10.16d0 ................ Dt               !Diâmetro da tubeira (mm)
+0 ...................... Nt               !Presença de tubo-guia (1=sim, 0=não)
+4.000d0 ................ Detb             !Diâmetro externo do tubo-guia (mm)
+4.000d0 ...............  etb              !Espessura do tubo-guia (mm)
+70.0d0 ................. Ltb              !Comprimento do tubo-guia (mm)
+0 ...................... Nest             !Presença de estopim externo (1=sim, 0=não)
+4.000d0 ................ Dest             !Diâmetro do estopim (mm)
+50.0d0 ................. Lest             !Comprimento do estopim (mm)
