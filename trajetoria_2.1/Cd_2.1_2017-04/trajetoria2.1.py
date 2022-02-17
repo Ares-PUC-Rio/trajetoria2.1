@@ -197,7 +197,7 @@ class App:
         subprocess.Popen("CD 2.1.exe")
 
 root = Tk()
-root.geometry("700x400+300+100")
+root.geometry("700x800+300+100")
 root.title("Trajetória")
 App(root)
 root.mainloop()
